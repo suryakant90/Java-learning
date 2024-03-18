@@ -47,7 +47,7 @@ public class Fibonacci {
 
 
 //        for (int i=0; i>=100; i++  );
-//        if(i());
+//       if(i());
 
     }
 
